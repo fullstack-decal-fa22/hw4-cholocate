@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hw4-cholocate/static/css/main.b6832693.css",
-    "main.js": "/hw4-cholocate/static/js/main.cb31a3e4.js",
+    "main.js": "/hw4-cholocate/static/js/main.9fe78c18.js",
     "static/js/787.263e14e4.chunk.js": "/hw4-cholocate/static/js/787.263e14e4.chunk.js",
     "index.html": "/hw4-cholocate/index.html",
     "main.b6832693.css.map": "/hw4-cholocate/static/css/main.b6832693.css.map",
-    "main.cb31a3e4.js.map": "/hw4-cholocate/static/js/main.cb31a3e4.js.map",
+    "main.9fe78c18.js.map": "/hw4-cholocate/static/js/main.9fe78c18.js.map",
     "787.263e14e4.chunk.js.map": "/hw4-cholocate/static/js/787.263e14e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6832693.css",
-    "static/js/main.cb31a3e4.js"
+    "static/js/main.9fe78c18.js"
   ]
 }
