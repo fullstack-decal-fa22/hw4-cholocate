@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fullstack-decal-fa22/hw4-cholocate/static/css/main.b6832693.css",
+    "main.js": "/fullstack-decal-fa22/hw4-cholocate/static/js/main.9e736943.js",
+    "static/js/787.263e14e4.chunk.js": "/fullstack-decal-fa22/hw4-cholocate/static/js/787.263e14e4.chunk.js",
+    "index.html": "/fullstack-decal-fa22/hw4-cholocate/index.html",
+    "main.b6832693.css.map": "/fullstack-decal-fa22/hw4-cholocate/static/css/main.b6832693.css.map",
+    "main.9e736943.js.map": "/fullstack-decal-fa22/hw4-cholocate/static/js/main.9e736943.js.map",
+    "787.263e14e4.chunk.js.map": "/fullstack-decal-fa22/hw4-cholocate/static/js/787.263e14e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6832693.css",
+    "static/js/main.9e736943.js"
+  ]
+}
